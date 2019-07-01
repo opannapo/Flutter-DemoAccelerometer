@@ -1,15 +1,24 @@
 # Flutter-DemoAccelerometer
-Flutter DemoAccelerometer
+Flutter (Parallax) with Sensors Accelerometer
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Output : 
+### Running on Device (Ios & Android)
 
-A few resources to get you started if this is your first Flutter project:
+https://www.youtube.com/watch?v=8IgVlNW2vqE
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<a href="https://www.youtube.com/watch?v=8IgVlNW2vqE" target="_blank"><img src="https://img.youtube.com/vi/8IgVlNW2vqE/maxresdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="50%" height="50%" border="10" /></a>
+ 
+ 
+# Point
+- Sensors Accelerometer
+- Parallax 
+ 
+### Dependencies
+- flutter sdk
+- sensors
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Assets
+- Image
+- Font
